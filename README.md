@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Yoshi, a student at 42 Tokyo since October 2024.
 
 <!--
 **yoshi769/yoshi769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
