@@ -1,6 +1,6 @@
 ## Hello!
-I am Yoshi, a student at 42 Tokyo since October 2024. 🐾
-🌱 I’m currently learning the C language and Python.
+I am Yoshi, an EX-student at 42 Tokyo since October 2024. 🐾
+🌱 I learned the C language and computer science foundation there. Now, I pivoted myself from 42 to data science with Python.
 ⚡ Fun fact: Never coded before 42 Tokyo. Interested in Data Science for social good. Curiosity on open-ended questions
 <!--
 **yoshi769/yoshi769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
